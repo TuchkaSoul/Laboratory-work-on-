@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Laba14/1.0.0": {
+        "dependencies": {
+          "HashTableCollection": "1.0.0.0",
+          "UserLibraryProductionShop": "1.0.0.0",
+          "UserUtility1": "1.0.0.0"
+        },
+        "runtime": {
+          "Laba14.dll": {}
+        }
+      },
+      "HashTableCollection/1.0.0.0": {
+        "runtime": {
+          "HashTableCollection.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "UserLibraryProductionShop/1.0.0.0": {
+        "runtime": {
+          "UserLibraryProductionShop.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "UserUtility1/1.0.0.0": {
+        "runtime": {
+          "UserUtility1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HashTableCollection/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserLibraryProductionShop/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserUtility1/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="HashTableCollection">
+      <HintPath>..\HashTableCollection\bin\Release\net6.0\HashTableCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="UserLibraryProductionShop">
+      <HintPath>..\UserLibraryProductionShop\UserLibraryProductionShop\bin\Release\net6.0\UserLibraryProductionShop.dll</HintPath>
+    </Reference>
+    <Reference Include="UserUtility1">
+      <HintPath>..\UserUtility1\UserUtility1\bin\Release\net6.0\UserUtility1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
