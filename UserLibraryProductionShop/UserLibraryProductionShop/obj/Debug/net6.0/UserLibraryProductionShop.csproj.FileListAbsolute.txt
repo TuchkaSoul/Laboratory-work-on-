@@ -1,0 +1,4 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Debug\net6.0\UserLibraryProductionShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Debug\net6.0\UserLibraryProductionShop.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Debug\net6.0\UserLibraryProductionShop.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Debug\net6.0\UserLibraryProductionShop.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\MyMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\MyMenu.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\MyMenu.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\MyMenu.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\bin\Debug\net6.0\MyMenu.exe
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\bin\Debug\net6.0\MyMenu.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\bin\Debug\net6.0\MyMenu.runtimeconfig.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\bin\Debug\net6.0\MyMenu.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\bin\Debug\net6.0\MyMenu.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\MyMenu.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\refint\MyMenu.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\MyMenu.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\MyMenu.genruntimeconfig.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\MyMenu\MyMenu\obj\Debug\net6.0\ref\MyMenu.dll

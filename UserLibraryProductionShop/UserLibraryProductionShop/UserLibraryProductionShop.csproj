@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UserUtility1">
+      <HintPath>..\..\UserUtility1\UserUtility1\bin\Release\net6.0\UserUtility1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

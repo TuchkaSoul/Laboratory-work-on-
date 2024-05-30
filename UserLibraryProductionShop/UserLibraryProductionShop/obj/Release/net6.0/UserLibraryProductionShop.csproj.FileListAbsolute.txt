@@ -1,0 +1,15 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\bin\Release\net6.0\UserLibraryProductionShop.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\bin\Release\net6.0\UserLibraryProductionShop.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\bin\Release\net6.0\UserLibraryProductionShop.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\bin\Release\net6.0\UserUtility1.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\bin\Release\net6.0\UserUtility1.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibraryProductionShop.csproj.AssemblyReference.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibraryProductionShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibraryProductionShop.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibraryProductionShop.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibraryProductionShop.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibraryProductionShop.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\refint\UserLibraryProductionShop.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibraryProductionShop.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\ref\UserLibraryProductionShop.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\UserLibraryProductionShop\UserLibraryProductionShop\obj\Release\net6.0\UserLibr.C2480E79.Up2Date

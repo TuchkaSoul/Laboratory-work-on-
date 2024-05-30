@@ -1,0 +1,11 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\bin\Release\net6.0\HashTableCollection.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\bin\Release\net6.0\HashTableCollection.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\bin\Release\net6.0\HashTableCollection.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\HashTableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\HashTableCollection.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\HashTableCollection.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\HashTableCollection.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\HashTableCollection.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\refint\HashTableCollection.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\HashTableCollection.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\HashTableCollection\obj\Release\net6.0\ref\HashTableCollection.dll
