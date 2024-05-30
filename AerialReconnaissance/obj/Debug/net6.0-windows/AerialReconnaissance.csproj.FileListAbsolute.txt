@@ -1,0 +1,17 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\bin\Debug\net6.0-windows\AerialReconnaissance.exe
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\bin\Debug\net6.0-windows\AerialReconnaissance.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\bin\Debug\net6.0-windows\AerialReconnaissance.runtimeconfig.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\bin\Debug\net6.0-windows\AerialReconnaissance.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\bin\Debug\net6.0-windows\AerialReconnaissance.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.Form1.resources
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.csproj.GenerateResource.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\refint\AerialReconnaissance.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.genruntimeconfig.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\ref\AerialReconnaissance.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\AerialReconnaissance\obj\Debug\net6.0-windows\AerialReconnaissance.Properties.Resources.resources
